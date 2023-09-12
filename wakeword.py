@@ -8,11 +8,11 @@ porcupine = None
 pa = None
 audio_stream = None
 # 検知したいワード
-keywords = ["picovoice"]
+keywords = ["こんにちは"]
 # picovoiceのアクセスキー
 ACCESS_KEY = ""
 # 検知したいワードの音声ファイル
-KEYWORD_FILE_PATH = "yamaarashi_ja_windows_v2_1_0.ppn"
+KEYWORD_FILE_PATH = "こんにちは_ja_windows_v2_1_0.ppn"
 # 日本語用のファイル
 MODEL_PATH = "porcupine_params_ja.pv"
 try:
